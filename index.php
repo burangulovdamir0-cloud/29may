@@ -11,4 +11,4 @@ echo "\n";
 echo canFormWord('umpk', ['u', 'pkm']) ? 'true' : 'false';
 echo "\n";
 echo canFormWord('umpk', ['ym', 'pk']) ? 'true' : 'false';
-?>w
+?>
